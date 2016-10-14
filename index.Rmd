@@ -3,6 +3,7 @@ title: "When is a good time to visit Hong Kong?"
 author: "Kelvin Chan"
 date: "October 14, 2016"
 output: ioslides_presentation
+smaller: true
 ---
 
 ## Introduction
